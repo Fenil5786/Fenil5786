@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m [@Fenil5786](https://github.com/Fenil5786)
 
-- 👀 Full-stack web developer exploring real-time apps & APIs  
+- 👀 Full-stack web developer exploring the magic of Ai in our lives  
 - 🌱 Currently mastering C++ and Python  
 - 💻 Solving algorithmic challenges and building problem solving skills  
 - ⚡ Fun fact: I love exploring new tech and tool in my free time !
