@@ -32,7 +32,7 @@
 
 ## 🚀 **Highlighted Projects**
 
-- **[Finance Report Analyzer](https://github.com/Fenil5786/Finance-Report-Analyzer))** – This Python script processes a PDF document to extract financial data such as revenue, profit before tax, and profit after tax. It utilizes OCR for image-based text extraction and structured data extraction from tables.
+- **[Finance Report Analyzer](https://github.com/Fenil5786/Finance-Report-Analyzer)** – This Python script processes a PDF document to extract financial data such as revenue, profit before tax, and profit after tax. It utilizes OCR for image-based text extraction and structured data extraction from tables.
 - **[Fitness Website](https://github.com/Fenil5786/Fitness-Website)** – A modern fitness web application designed to help users live a healthier life. This platform allows users to sign up, log in, and explore various fitness programs, classes, blogs, and more.
 - **[Text Editor](https://github.com/Fenil5786/Text-Editor)** – A simple, lightweight Text Editor built using Java Swing. This editor supports basic text formatting, undo-redo functionality, and font customization features.
 
