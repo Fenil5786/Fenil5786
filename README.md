@@ -1,72 +1,126 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Fenil+Makvana+%F0%9F%91%8B;Full-Stack+Web+Developer;AI+Enthusiast" alt="Typing SVG" /></a>
+```
+███████╗███████╗███╗   ██╗██╗██╗
+██╔════╝██╔════╝████╗  ██║██║██║
+█████╗  █████╗  ██╔██╗ ██║██║██║
+██╔══╝  ██╔══╝  ██║╚██╗██║██║██║
+██║     ███████╗██║ ╚████║██║███████╗
+╚═╝     ╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝
+```
+
+# Hey, I'm Fenil Makvana 👋
+
+**AI/ML Engineer · Agentic Systems · Multi-Agent Pipelines**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fenilmakvana)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fenilmakvana)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fenilmakvana@gmail.com)
 
 </div>
 
-I am a passionate Full-Stack Developer exploring the magic of AI and building efficient, scalable web applications. My focus is on writing clean code and solving real-world problems.
+---
+
+## 🤖 About Me
+
+I'm a **B.Tech CSE student at Nirma University** (2022–26) with a deep focus on **Agentic AI and Multi-Agent Systems**. Currently interning at **MAQSoftware** as an Associate Software Engineer, where I design and deploy multi-agent pipelines for enterprise automation.
+
+I love building AI systems that *actually do things* — autonomous agents that reason, retrieve, evaluate, and deliver results end-to-end.
+
+```python
+fenil = {
+    "currently":   "Associate SWE Intern @ MAQSoftware, Noida",
+    "studying":    "B.Tech CSE @ Nirma University (CGPA: 8.43)",
+    "focus":       ["Agentic AI", "Multi-Agent Systems", "RAG Pipelines"],
+    "building":    "AI systems that reason autonomously",
+    "open_to":     "Internships, Collaborations, AI Research",
+}
+```
 
 ---
 
-### <p align="center">💡 Core Competencies 💡</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-</p>
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat-square&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
----
-
-### <p align="center">📊 My GitHub Journey 📊</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fenil5786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Fenil's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenil5786&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=6" alt="Top Languages" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenil5786&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### <p align="center">🚀 My Projects 🚀</p>
+## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Finance Report Analyzer</h3>
-      <p>A Python script that leverages OCR to extract and structure key financial data from PDF reports.</p>
-      <a href="https://github.com/Fenil5786/Finance-Report-Analyzer">View Project &rarr;</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Fitness Website</h3>
-      <p>A modern, full-stack fitness web application to help users manage their health journey.</p>
-      <a href="https://github.com/Fenil5786/Fitness-Website">View Project &rarr;</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Text Editor</h3>
-      <p>A simple and lightweight text editor built with Java Swing, featuring basic formatting and undo/redo.</p>
-      <a href="https://github.com/Fenil5786/Text-Editor">View Project &rarr;</a>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-</table>
+### 🧠 InsightAI — Multi-Agent Portfolio Analyzer
+> Automated project portfolio analysis with intelligent insights and PDF/email reports
+
+- **5-agent pipeline**: Planner → Critic → Portfolio → Delivery Execution → Synthesis
+- RAG with **ChromaDB + OpenAI embeddings** for semantic retrieval
+- Auto-generates **HTML/PDF reports** with SMTP email delivery
+- `Python` · `Semantic Kernel` · `LangChain` · `LangGraph` · `Groq` · `ChromaDB` · `Streamlit`
 
 ---
 
-### <p align="center">🔗 Let's Connect 🔗</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/fenil-rami-6a7803204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Fenil_5786/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/fenil_5786" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="mailto:fenilmakvana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 💰 AI Reimbursement Agent — Agentic RAG for Expense Claims
+> Evaluates employee expense claims against company policy and generates reimbursement reports
+
+- **LangGraph multi-node pipeline**: expense extraction → RAG policy retrieval → evaluation → report
+- **ChromaDB + sentence-transformer embeddings** for semantic policy matching
+- Streamlit UI for PDF upload and report viewing
+- `Python` · `LangGraph` · `LangChain` · `OpenAI` · `ChromaDB` · `Sentence Transformers`
+
+---
+
+### 🔐 AI Eligibility & KYC Checker — Enterprise Agentic KYC System
+> 7 specialist AI agents with compliance-grade audit logging
+
+- **7-agent orchestration**: document extraction → authenticity → face matching → eligibility → fraud/sanctions → decision → audit
+- **Microsoft Agentic Framework** runtime adapter with correlation ID propagation and retry policies
+- **RBI/SEBI-compliant** audit trails
+- `Python` · `Groq LLM (LLaMA 3, Mixtral)` · `Streamlit` · `Semantic Kernel`
+
+---
+
+## 🏆 Accomplishments
+
+| 🥈 | **MINeD Hackathon** — 1st Runner-up | Built a finance report analyzer tool |
+|---|---|---|
+| 🤖 | **HackNUthon 5.0** | Built an AI-powered E-commerce chatbot |
+| 📜 | **Goldman Sachs** | Software Engineering Job Simulation Certificate |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Fenil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenilmakvana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenilmakvana&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📚 Coursework
+
+`Data Structures & Algorithms` · `Operating Systems` · `OOP` · `DBMS` · `Software Engineering` · `Cloud Computing`
+
+---
+
+<div align="center">
+
+*"Building AI agents that don't just answer — they act."*
+
+📍 Ahmedabad, India &nbsp;|&nbsp; 📞 +91-7434993133 &nbsp;|&nbsp; 📧 fenilmakvana@gmail.com
+
+</div>
