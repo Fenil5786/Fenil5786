@@ -121,6 +121,6 @@ fenil = {
 
 *"Building AI agents that don't just answer — they act."*
 
-📍 Ahmedabad, India &nbsp;|&nbsp; 📞 +91-7434993133 &nbsp;|&nbsp; 📧 fenilmakvana@gmail.com
+📍 Ahmedabad, India &nbsp;|&nbsp; |&nbsp; 📧 fenilmakvana@gmail.com
 
 </div>
