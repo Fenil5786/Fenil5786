@@ -121,6 +121,6 @@ fenil = {
 
 *"Building AI agents that don't just answer — they act."*
 
-📍 Ahmedabad, India &nbsp;|&nbsp; |&nbsp; 📧 fenilmakvana@gmail.com
+📍 Ahmedabad, India &nbsp; |&nbsp; 📧 fenilmakvana@gmail.com
 
 </div>
